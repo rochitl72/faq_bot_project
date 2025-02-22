@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+.Trash/
+Library/
+data/db/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+faq_bot_env/
+.env
+
