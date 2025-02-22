@@ -1,4 +1,4 @@
-
+oo
 # FAQ Chatbot
 
 A simple FAQ chatbot that retrieves answers from a predefined dataset.
@@ -204,17 +204,3 @@ Modify similarity threshold in retriever.py to fine-tune accuracy.
 
 
 ---
-
-9. License
-
-This project is open-source under the MIT License. Feel free to modify and improve it!
-
-### **How to Use?**
-1. Save this file as **`README.md`** in your project folder.
-2. When uploaded to GitHub, it will be automatically formatted for easy reading.
-3. Users can follow the step-by-step instructions for installation, usage, and troubleshooting.
-
----
-
-This is a complete **`README.md`** file. Let me know if you need any modifications! 🚀
-
